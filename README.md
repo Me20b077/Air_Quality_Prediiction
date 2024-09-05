@@ -6,5 +6,9 @@
 ## To simply run this model
 1. Clone this repository
 2. Download the file [rfr_weights](https://drive.google.com/file/d/1Yy8GhxHkLZ4y4RTj3ajixz5l3Oz91tgr/view?usp=sharing)
-3. Run this [gui.py]()
+3. Run this [gui.py](https://github.com/Me20b077/Air_Quality_Prediiction/blob/main/gui.py)
+4. Input the values of the amounts of asked pollutants
+5. View Results
+
+
 
