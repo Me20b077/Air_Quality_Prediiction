@@ -5,5 +5,6 @@
 
 ## To simply run this model
 1. Clone this repository
-2. Download the file []
+2. Download the file [rfr_weights](https://drive.google.com/file/d/1Yy8GhxHkLZ4y4RTj3ajixz5l3Oz91tgr/view?usp=sharing)
+3. Run this [gui.py]()
 
